@@ -42,7 +42,7 @@ Visit the [VR HUB Game List on the website](https://mrsurvivor-installers.com/) 
 
 ## Credits
 
-I created the VR HUB and installers. Credit for the VR mods belongs to their respective creators.
+I created the VR HUB and guided setup process along with the basic management system. Some mod authors created their own installers. So we leverage those where ever possible. Credit for the VR mods/installers belongs to their respective creators.
 
 - **All contributing mod authors** — thank you for the work that makes these VR experiences possible. See the HUB for individual credits and links.
 
